@@ -23,6 +23,7 @@
 1. `composer update`
 2. `./vendor/bin/sail up`
 3. `sail artisan migrate`
+4. `sail artisan db:seed`
 4. `sail artisan meilisearch:setup --fresh`
 
 Дока доступна по ссылке `api/documentation`
